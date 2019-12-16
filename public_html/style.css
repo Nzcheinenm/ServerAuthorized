@@ -1,0 +1,33 @@
+p1 {
+color: grey;
+font-size: 22px
+width: 200px;
+margin: 0 auto;
+padding: 20px 0 20px 0;
+}
+
+p {
+color: grey;
+font-size: 24px;
+text-align: center;
+}
+
+input[type="text"] {
+border: 1px solid black;
+border-radius: 5px;
+}
+
+input[type="submit"] {
+border: 1px solid rgba(118,2,0,1);
+}
+
+input[type="submit"]:hover {
+color: #fff;
+background-color: rgba(118,2,0,1);
+}
+
+.cent {
+width: 200px;
+margin: 0 auto;
+padding: 20px 0 20px 0;
+}
